@@ -4,9 +4,9 @@
 
 ### [5월 둘째주, 5주차] : react
 
-24.05.08 express.js 인증 인가 구현 ([상세 내역 링크](https://github.com/100-hours-a-week/haisely-til/blob/main/5월/2024-05-10.md))
+24.05.10 express.js 인증 인가 구현 ([상세 내역 링크](https://github.com/100-hours-a-week/haisely-til/blob/main/5월/2024-05-10.md))
 
-24.05.08 특강 ([상세 내역 링크](https://github.com/100-hours-a-week/haisely-til/blob/main/5월/2024-05-09.md))
+24.05.09 특강 ([상세 내역 링크](https://github.com/100-hours-a-week/haisely-til/blob/main/5월/2024-05-09.md))
 
 24.05.08 react 기초 2 ([상세 내역 링크](https://github.com/100-hours-a-week/haisely-til/blob/main/5월/2024-05-08.md))
 

@@ -2,6 +2,10 @@
 
 ## 오늘 내가 배운 것들(Today I Learned)
 
+### [5월 셋째주, 6주차] : java 응용
+
+24.05.20 CLI 프로그램 제작 ([상세 내역 링크](https://github.com/100-hours-a-week/haisely-til/blob/main/5월/2024-05-20.md))
+
 ### [5월 셋째주, 6주차] : java
 
 24.05.16 java 이론, 실습 진행 ([상세 내역 링크](https://github.com/100-hours-a-week/haisely-til/blob/main/5월/2024-05-16.md))
